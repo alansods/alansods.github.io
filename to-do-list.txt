@@ -1,0 +1,1 @@
+Criar no vue o portfolio semelhante ao modelo.
