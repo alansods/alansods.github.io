@@ -1,1 +1,2 @@
-Criar no vue o portfolio semelhante ao modelo.
+- Criar no vue o portfolio semelhante ao modelo.
+- Lembrar de fazer vários commits ao longo da produção para facilitar a identificação de possíveis erros.
